@@ -3,7 +3,9 @@ Jogo desenvolvido por: Ezequiel dos Santos, [Ítalo Henrique](https://github.com
                        
 # Descrição
 Projeto da cadeira de Introdução à programação do curso de engenharia da computação 2018.1
+
 Centro de Informática - UFPE
+
 Monitor responsável: Mateus Valgueiro (mvt)
 
 # Música
