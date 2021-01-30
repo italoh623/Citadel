@@ -9,8 +9,8 @@ Game developed by:
 - [Thayná Luiza Gitirana](https://github.com/gitirana)
                        
 # Description
-Projeto da disciplina Introdução à programação -engenharia da computação 2018.1
+Course design Introduction to programming - computer engineering 2018.1
 
-Centro de Informática - UFPE
+Computer Center - UFPE
 
-Monitor responsável: Mateus Valgueiro (mvt)
+Monitor responsible: Mateus Valgueiro (mvt)
